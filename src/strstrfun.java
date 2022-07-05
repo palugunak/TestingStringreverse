@@ -32,8 +32,8 @@ class strstrfun
 
     public static void main(String[] args)
     {
-        String X = "Techie Delight";
-        String Y = "light";
+        String X = "Techie F Delight for";
+        String Y = "for";
 
         System.out.println("The index of the first occurrence of Y in X is "
                 + strstr(X, Y));
